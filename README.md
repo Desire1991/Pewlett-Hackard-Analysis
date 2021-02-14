@@ -1,18 +1,40 @@
 Pewlett Hackard Analysis
 Overview
 The purpose of this project is to summarize the employee data in different ways to help the HR decision making process at Pewlett Hackard ("PH") using SQL. There are two major questions to answer through this Project:
+
+
 1.	How many employees are retiring by title?
+
+
 2.	How many employees are eligible for the mentorship program?
 Results
+
+
 Deliverable 1: The Number of Retiring Employees by Title
 The table below shows the summary of employees who are retiring by title.
+
+
 •	25916 Senior Engineer
+
+
 •	24926 Senior Staff
+
+
 •	9285 Engineer
+
+
 •	7636 Staff
+
+
 •	3603 Technique Leader
+
+
 •	1090 Assistant Engineer
+
+
 •	2 Manager
+
+
 
 The result shows that the majority of retiring staff are of senior titles.
 Among all employees, most people have technical skills, reflected by the "Engineer" and "Technique Leader" title.
