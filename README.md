@@ -1,5 +1,9 @@
-Pewlett Hackard Analysis
-Overview
+#Pewlett Hackard Analysis
+
+
+#Overview
+
+
 The purpose of this project is to summarize the employee data in different ways to help the HR decision making process at Pewlett Hackard ("PH") using SQL. There are two major questions to answer through this Project:
 
 
@@ -69,7 +73,7 @@ It looks like the non-technical staff account for a bigger portion of this cohor
 Almost half of these people are already of senior titles, who may not need or want a mentor.
 
 
-Summary
+#Summary
 
 
 •	Using birthdays that fell between 1/1/1952 and 12/31/1955 to define people who are about to retire, there will be 72,458 roles that need to be filled as the "silver tsunami" begins to make an impact.
