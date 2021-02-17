@@ -23,25 +23,7 @@ The table below shows the summary of employees who are retiring by title.
 
 
 
-•	25916 Senior Engineer
-
-
-•	24926 Senior Staff
-
-
-•	9285 Engineer
-
-
-•	7636 Staff
-
-
-•	3603 Technique Leader
-
-
-•	1090 Assistant Engineer
-
-
-•	2 Manager
+![Retiring_titles](https://user-images.githubusercontent.com/74233163/108172980-26fd4c00-70c3-11eb-98bb-a30ba31e8344.png)
 
 
 
@@ -52,10 +34,12 @@ Among all employees, most people have technical skills, reflected by the "Engine
 
 
 
+
+
 Deliverable 2: The Employees Eligible for the Mentorship Program
 
 
-The list below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
+The table below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
 
 
 •	78 Assistant Engineer
