@@ -21,6 +21,8 @@ Deliverable 1: The Number of Retiring Employees by Title
 The table below shows the summary of employees who are retiring by title.
 
 
+
+
 •	25916 Senior Engineer
 
 
@@ -45,6 +47,9 @@ The table below shows the summary of employees who are retiring by title.
 
 The result shows that the majority of retiring staff are of senior titles.
 Among all employees, most people have technical skills, reflected by the "Engineer" and "Technique Leader" title.
+
+![retirement_titles](https://user-images.githubusercontent.com/74233163/108172978-2664b580-70c3-11eb-8bbd-b92e199af191.png)
+
 
 
 Deliverable 2: The Employees Eligible for the Mentorship Program
