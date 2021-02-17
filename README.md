@@ -73,4 +73,3 @@ Almost half of these people are already of senior titles, who may not need or wa
 
 •	Using birthdays that fell between 1/1/1965 and 12/31/1965, there are 1,549 current employees people who are eligible to be mentored. This number is dwarfed by the number of retiring employees.
  
->>>>>>> e2bf567f14b812a4bcbcb9d8dfd5867664bb7e44
