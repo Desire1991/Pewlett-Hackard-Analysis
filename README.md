@@ -59,15 +59,4 @@ Using birthdays that fell between 1/1/1965 and 12/31/1965, there are 1,549 curre
 
 
 
-It looks like the non-technical staff account for a bigger portion of this cohort, compared to the retiring cohort.
-Almost half of these people are already of senior titles, who may not need or want a mentor.
-
-
-#Summary
-
-
-•	Using birthdays that fell between 1/1/1952 and 12/31/1955 to define people who are about to retire, there will be 72,458 roles that need to be filled as the "silver tsunami" begins to make an impact.
-
-
-•	Using birthdays that fell between 1/1/1965 and 12/31/1965, there are 1,549 current employees people who are eligible to be mentored. This number is dwarfed by the number of retiring employees.
  
