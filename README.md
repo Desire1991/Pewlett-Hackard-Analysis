@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 
-=======
+
+
 #Pewlett Hackard Analysis
 
 
@@ -39,7 +39,7 @@ Among all employees, most people have technical skills, reflected by the "Engine
 Deliverable 2: The Employees Eligible for the Mentorship Program
 
 
-The table below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
+The list below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
 
 
 •	78 Assistant Engineer
