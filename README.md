@@ -39,25 +39,23 @@ Among all employees, most people have technical skills, reflected by the "Engine
 Deliverable 2: The Employees Eligible for the Mentorship Program
 
 
-The list below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
+The table below shows the summary of employees who are eligible for the mentorship program, based on their birthday.
+
+![mentee](https://user-images.githubusercontent.com/74233163/108291839-89545c00-7158-11eb-9f9b-569501d8c07c.png)
 
 
-•	78 Assistant Engineer
+It appears that non-technical staff account for a bigger portion of this cohort, compared to the retiring cohort.
+About half of these people are already of senior titles, who may not need or want a mentor.
 
 
-•	155 Staff
+Summary
 
 
-•	569 Senior Staff
+Using birthdays that fell between 1/1/1951 and 12/31/1955 to define people who are about to retire, there will be 72,458 roles that need to be filled as the "silver tsunami" begins to make an impact.
 
 
-•	77 Technique Leader
+Using birthdays that fell between 1/1/1965 and 12/31/1965, there are 1,549 current employees people who are eligible to be mentored. This number is dwarfed by the number of retiring employees.
 
-
-•	501 Engineer
-
-
-•	169 Senior Engineer
 
 
 
